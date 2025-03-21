@@ -1,4 +1,6 @@
 # WeatherDash
+![WD-1](./assets/images/WD-1.png)
+![WD-2](./assets/images/WD-2.png)
 
 ## Weather Dashboard Requirements
 
